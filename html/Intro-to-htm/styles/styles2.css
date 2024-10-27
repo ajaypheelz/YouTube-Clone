@@ -1,0 +1,102 @@
+/* button {
+    border-radius: 40px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+a {
+    transition: color 0.4;
+    color: cornflowerblue;
+    transition: ;
+}
+a:hover {
+   color: rgb(254, 77, 77); 
+
+}
+
+a:active {
+
+}
+
+
+.addToCart-btn {
+    background-color: yellow;
+}
+
+.addToCart-btn:hover {
+    opacity: 80%;
+}
+
+.addToCart-btn:active {
+    opacity: 50%;
+}
+
+.buyNow-btn {
+    background-color: rgb(255, 165, 0);
+    transition: box-shadow 0.3s;
+
+}
+
+.buyNow-btn:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
+} */
+
+button {
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0px 0px 16px;
+
+}
+
+.subscribe-btn {
+    background-color: rgb(190, 2, 2);
+    color: white;
+    font-weight: 300px;
+    transition: opacity 0.15s;
+    padding: 10px 15px 10px 15px;
+    
+}
+
+.subscribe-btn:hover {
+    opacity: 85%;
+}
+
+.subscribe-btn:active {
+    opacity: 50%;
+}
+.join-btn {
+    background-color: white;
+    color: rgb(29, 155, 240);
+    border-style: solid;
+    border-width: 2px;
+    transition: background-color 0.15s,
+        color 0.15s;
+    padding: 9px 15px 9px 15px;
+}
+
+.join-btn:hover {
+    color: white;
+    background-color:  rgb(66, 199, 251);
+
+}
+
+.join-btn:active {
+    opacity: 701%;
+}
+.tweet-btn {
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(29 161 242);
+    font-weight: 600;
+    transition: box-shadow .2s;
+    padding: 11px 14px 11px 14px;
+
+}
+
+.tweet-btn:hover {
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15); 
+}

@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+.video-title {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    width: 300px;
+    line-height: 40px;
+    font-weight: bold;
+    color:  rgb(36, 36, 36);
+    margin-bottom:  5px ;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    padding-left: 10px;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+.marques{
+    margin-bottom: 20px;
+    color: rgb(10, 107, 107);
+
+}
+
+.video-stat {
+    margin-bottom: 15px;
+}
+
+p.text-body {
+    color: rgb(36, 36, 36);
+    width: 280px;
+    color: rgb(107, 107, 107);
+    font-size: 16px;
+    margin-top: 0;
+    line-height: 20px;
+    margin-bottom: 100px;
+}
+
+.video-preview {
+    display: inline-block;
+}
+
+.banner-text {
+    color: white;
+    background-color: rgb(225, 65, 64);
+    text-align: center;
+    padding: 12px 0 12px 0;
+    text-align: center;
+    margin: 20px 0 0 0;
+    font-size: 14px;
+
+}
+
+.down-banner {
+    margin: 20px 0 0 0;
+    
+}
+
+.down-banner-shop-now {
+    color:red;
+}
+
+.down-banner-shop-now:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.d-ban {
+    color: white;
+}
+
+.d-ban:hover{
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+.channel-pic {
+    display: inline-block;
+}

@@ -1,0 +1,32 @@
+
+
+.main-1 {
+    display: grid;
+    grid-template-columns: 100px 1fr ;
+    grid-template-rows: 200px 200px  ;
+    margin-top: 20px;
+}
+
+.main-2 {
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr 1.5fr;
+    grid-template-rows: 200px 200px  ;
+    margin-top: 20px;
+}
+.main-22 {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex2 {
+    background-color: pink;
+    flex:1;
+
+}
+.flex1 {
+    background-color: skyblue;
+    width: 100px;
+    margin-bottom: 100px;
+
+}
+

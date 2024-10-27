@@ -1,0 +1,21 @@
+.header-flexbox{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+.search-bar {
+    font-family: "Roboto",Noto, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 12px;
+}
+
+ 
+
